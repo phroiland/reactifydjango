@@ -5,7 +5,7 @@ React is a powerful component JavaScript library. With it, you can build all kin
 This project is about integrating React with Django.
 
 #### Tech
-React 16.4.0
+```React 16.4.0
 
 Django 1.11
 
@@ -13,10 +13,10 @@ Django Rest Framework 3.8.2
 
 Django CORS Headers 2.2.0
 
-Python 3.5 (and up)
+Python 3.5 (and up)```
 
 #### Recommended Start
-$ cd path/to/your/dev/folder
+```$ cd path/to/your/dev/folder
 
 $ mkdir reactifydjango
 
@@ -38,4 +38,4 @@ $ source bin/activate
 
 (reactifydjango) $ cd reactify-ui
 
-(reactifydjango) $ npm install
+(reactifydjango) $ npm install```
